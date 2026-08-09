@@ -7,7 +7,7 @@ export default defineConfig({
   retries: 1,
   reporter: [['html', { open: 'never' }]],
   use: {
-    baseURL: 'https://YOUR-GLOWUP-AI-URL.vercel.app',
+    baseURL: 'https://glow-aura-pro.base44.app',
     trace: 'on-first-retry',
     screenshot: 'only-on-failure',
   },

@@ -18,3 +18,4 @@ test.describe('GlowUp AI smoke test', () => {
     await expect(page).toHaveTitle(/.+/);
   });
 });
+
